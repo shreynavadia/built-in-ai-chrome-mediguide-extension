@@ -31,10 +31,6 @@ MediGuide is a user-friendly Chrome extension designed to assist users in quickl
   - Incorporated **DOM manipulation** to extract relevant data from the pharmacy web pages.
   - Enhanced page detection with URL pattern matching, schema metadata, and keyword analysis.
 
-- **Version Control**:
-  - Managed with **Git** and hosted on **GitHub**.
-  - Collaboration was streamlined with proper commit history, branch management, and conflict resolution.
-
 ---
 
 ## How It Works
@@ -48,9 +44,6 @@ MediGuide is a user-friendly Chrome extension designed to assist users in quickl
 4. **Display**:
    - Information is formatted with line spacing for readability and presented in a sleek pop-up container.
 
----
-
-## Installation
 
 1. Clone or download the repository:
    ```bash
