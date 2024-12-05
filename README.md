@@ -18,16 +18,9 @@ MediGuide is a user-friendly Chrome extension designed to assist users in quickl
 ---
 
 ## How We Built It
-
-- **Frontend**:
-  - Developed using **HTML**, **CSS**, and **JavaScript** to create an intuitive and responsive user interface.
-  - Implemented frosted-glass styling for a modern aesthetic with clear button highlights for each option.
   
-- **Backend**:
   - Utilized **Chrome’s built-in AI prompt API** to process user-selected options and fetch relevant medicine information dynamically.
   - Applied fallback logic to detect medicine pages using structured metadata, schema information, and relevant keywords in the page content.
-
-- **Extension Logic**:
   - Incorporated **DOM manipulation** to extract relevant data from the pharmacy web pages.
   - Enhanced page detection with URL pattern matching, schema metadata, and keyword analysis.
 
