@@ -2,6 +2,7 @@
 
 MediGuide is a user-friendly Chrome extension designed to assist users in quickly accessing detailed information about medicines directly from pharmacy websites, such as CVS. With just a few clicks, users can retrieve essential details like descriptions, dosages, side effects, and alternatives for medicines. 
 
+*Currently Chrome' Built-in AI is only available on Chrome Canary*
 ---
 
 ## Features
